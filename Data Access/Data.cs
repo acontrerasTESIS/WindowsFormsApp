@@ -44,8 +44,6 @@ namespace WindowsFormsApp1.Data_Access
                 da.Fill(dt);
                 return dt;
 
-                //com2.ExecuteNonQuery();
-                //conn.Close();
             }
 
         }
