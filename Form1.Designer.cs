@@ -49,7 +49,7 @@
             // nombre
             // 
             this.nombre.AutoSize = true;
-            this.nombre.Location = new System.Drawing.Point(86, 55);
+            this.nombre.Location = new System.Drawing.Point(67, 43);
             this.nombre.Name = "nombre";
             this.nombre.Size = new System.Drawing.Size(44, 13);
             this.nombre.TabIndex = 0;
@@ -59,7 +59,7 @@
             // edad
             // 
             this.edad.AutoSize = true;
-            this.edad.Location = new System.Drawing.Point(432, 55);
+            this.edad.Location = new System.Drawing.Point(432, 42);
             this.edad.Name = "edad";
             this.edad.Size = new System.Drawing.Size(32, 13);
             this.edad.TabIndex = 1;
@@ -68,7 +68,7 @@
             // email
             // 
             this.email.AutoSize = true;
-            this.email.Location = new System.Drawing.Point(86, 125);
+            this.email.Location = new System.Drawing.Point(67, 113);
             this.email.Name = "email";
             this.email.Size = new System.Drawing.Size(32, 13);
             this.email.TabIndex = 2;
@@ -76,28 +76,28 @@
             // 
             // tbNombre
             // 
-            this.tbNombre.Location = new System.Drawing.Point(89, 71);
+            this.tbNombre.Location = new System.Drawing.Point(70, 59);
             this.tbNombre.Name = "tbNombre";
             this.tbNombre.Size = new System.Drawing.Size(256, 20);
             this.tbNombre.TabIndex = 3;
             // 
             // tbEdad
             // 
-            this.tbEdad.Location = new System.Drawing.Point(435, 71);
+            this.tbEdad.Location = new System.Drawing.Point(435, 59);
             this.tbEdad.Name = "tbEdad";
             this.tbEdad.Size = new System.Drawing.Size(75, 20);
             this.tbEdad.TabIndex = 4;
             // 
             // tbEmail
             // 
-            this.tbEmail.Location = new System.Drawing.Point(89, 141);
+            this.tbEmail.Location = new System.Drawing.Point(70, 129);
             this.tbEmail.Name = "tbEmail";
             this.tbEmail.Size = new System.Drawing.Size(256, 20);
             this.tbEmail.TabIndex = 5;
             // 
             // btnAgregar
             // 
-            this.btnAgregar.Location = new System.Drawing.Point(435, 138);
+            this.btnAgregar.Location = new System.Drawing.Point(435, 102);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(75, 23);
             this.btnAgregar.TabIndex = 6;
@@ -107,7 +107,7 @@
             // 
             // btnEliminar
             // 
-            this.btnEliminar.Location = new System.Drawing.Point(89, 415);
+            this.btnEliminar.Location = new System.Drawing.Point(70, 384);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(75, 23);
             this.btnEliminar.TabIndex = 8;
@@ -118,7 +118,7 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(70, 242);
+            this.dataGridView1.Location = new System.Drawing.Point(70, 209);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
@@ -133,7 +133,7 @@
             // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Location = new System.Drawing.Point(185, 415);
+            this.btnLimpiar.Location = new System.Drawing.Point(435, 384);
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(75, 23);
             this.btnLimpiar.TabIndex = 11;
@@ -143,14 +143,14 @@
             // 
             // tbBuscador
             // 
-            this.tbBuscador.Location = new System.Drawing.Point(296, 206);
+            this.tbBuscador.Location = new System.Drawing.Point(295, 182);
             this.tbBuscador.Name = "tbBuscador";
             this.tbBuscador.Size = new System.Drawing.Size(133, 20);
             this.tbBuscador.TabIndex = 12;
             // 
             // btnBuscar
             // 
-            this.btnBuscar.Location = new System.Drawing.Point(435, 204);
+            this.btnBuscar.Location = new System.Drawing.Point(435, 180);
             this.btnBuscar.Name = "btnBuscar";
             this.btnBuscar.Size = new System.Drawing.Size(75, 23);
             this.btnBuscar.TabIndex = 13;

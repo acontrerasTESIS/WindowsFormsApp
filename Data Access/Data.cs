@@ -17,7 +17,6 @@ namespace WindowsFormsApp1.Data_Access
         string connST2 = ConfigurationManager.AppSettings["defaultConnection"].ToString();
 
 
-
         public DataTable GetPersonas()
         {
             using (SqlConnection conn = new SqlConnection(connST2))

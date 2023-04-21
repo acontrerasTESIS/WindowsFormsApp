@@ -22,8 +22,6 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
 
-        //SqlConnection con = new SqlConnection("Data Source=Localhost;Initial Catalog=Person;Integrated Security=True");
-
 
         private void label1_Click(object sender, EventArgs e)
         {
