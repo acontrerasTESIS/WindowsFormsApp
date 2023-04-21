@@ -59,7 +59,7 @@
             // edad
             // 
             this.edad.AutoSize = true;
-            this.edad.Location = new System.Drawing.Point(411, 55);
+            this.edad.Location = new System.Drawing.Point(432, 55);
             this.edad.Name = "edad";
             this.edad.Size = new System.Drawing.Size(32, 13);
             this.edad.TabIndex = 1;
@@ -83,7 +83,7 @@
             // 
             // tbEdad
             // 
-            this.tbEdad.Location = new System.Drawing.Point(414, 71);
+            this.tbEdad.Location = new System.Drawing.Point(435, 71);
             this.tbEdad.Name = "tbEdad";
             this.tbEdad.Size = new System.Drawing.Size(75, 20);
             this.tbEdad.TabIndex = 4;
@@ -97,7 +97,7 @@
             // 
             // btnAgregar
             // 
-            this.btnAgregar.Location = new System.Drawing.Point(414, 138);
+            this.btnAgregar.Location = new System.Drawing.Point(435, 138);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(75, 23);
             this.btnAgregar.TabIndex = 6;
@@ -118,7 +118,7 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(70, 233);
+            this.dataGridView1.Location = new System.Drawing.Point(70, 242);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;

@@ -10,9 +10,7 @@ namespace WindowsFormsApp1
 {
     public static class Program
     {
-        /// <summary>
-        /// Punto de entrada principal para la aplicación.
-        /// </summary>
+
         [STAThread]
         static void Main(string[] args)
         {
@@ -26,11 +24,7 @@ namespace WindowsFormsApp1
            
             var connectionString = ConfigurationManager.ConnectionStrings["defaultConnection"].ConnectionString;
 
-            //using (SqlConnection sql = new SqlConnection(connectionString))
-            //{
-            //    sql.Open();
-            //}
-            //Console.Read();
+
         }
     }
 }
